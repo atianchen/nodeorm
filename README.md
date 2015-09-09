@@ -1,2 +1,2 @@
-gzthingsmap
-基于node.js开发的一个简单ORM
+node orm
+鍩轰簬NODE.JS瀹炵幇鐨勪竴涓畝鍗昈RM
